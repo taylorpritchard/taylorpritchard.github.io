@@ -21,7 +21,7 @@ div#content {
 div#header {
 	width: 800px;
 	height: 100px;
-	background: #EEFFFF;
+	background: #AAFFFF;
 	font-size: 40px;
 	position: absolute;
 	top: 0px;
@@ -35,13 +35,13 @@ div#header-content {
 div#nav {
 	width: 200px;
 	float: left;
-	background: #FFEEFF;
+	background: #FFAAFF;
 }
 
 div#maincontent {
 	width: 600px;
 	float: right;
-	background: #FFFFEE;
+	background: #FFFFAA;
 }
 
 div.navblock {
