@@ -1,14 +1,18 @@
-body {
+html, body {
 	background: #000000;
 	font-family: verdana, arial, sans-serif;
 	color: #000000;
 	font-size: 12px;
 	margin: 0px;
+	height: 100%;
 }
 
 div#container {
 	width: 800px;
-	margin: 0px auto;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0px auto -60px;
 	padding: 0px;
 }
 
@@ -52,6 +56,10 @@ div.navblock {
 div.contentblock {
 	width: 580px;
 	margin: 5px auto;
+}
+
+div#footer{
+	height: 60px;
 }
 
 .clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
