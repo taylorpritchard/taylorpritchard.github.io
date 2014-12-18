@@ -1,5 +1,5 @@
 body {
-	background: #FFFFFF;
+	background: #0000000;
 	font-family: verdana, arial, sans-serif;
 	color: #000000;
 	font-size: 12px;
@@ -21,7 +21,7 @@ div#content {
 div#header {
 	width: 800px;
 	height: 100px;
-	background: #AAFFFF;
+	background: #FFFFFF;
 	font-size: 40px;
 	position: absolute;
 	top: 0px;
@@ -35,13 +35,13 @@ div#header-content {
 div#nav {
 	width: 200px;
 	float: left;
-	background: #FFAAFF;
+	background: #FFFFFF;
 }
 
 div#maincontent {
 	width: 600px;
 	float: right;
-	background: #FFFFAA;
+	background: #FFFFFF;
 }
 
 div.navblock {
