@@ -52,8 +52,7 @@ div.navblock {
 div.contentblock {
 	width: 580px;
 	margin: 5px auto;
-	border-bottom-width: 2px;
-	border-bottom-color: 0x000000;
+	border-bottom: 2px solid Black;
 }
 
 .clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
