@@ -19,6 +19,7 @@ padding-top: 100px;
 background: #FFFFFF;
 }
 
+
 div#header {
 width: 800px;
 height: 100px;
@@ -26,6 +27,12 @@ background: #FFFFFF;
 font-size: 40px;
 position: absolute;
 top: 0px;
+}
+
+div#header-content 
+{ 
+    position: absolute; 
+    bottom: 0; 
 }
 
 div#nav {
