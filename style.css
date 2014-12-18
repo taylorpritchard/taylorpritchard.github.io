@@ -1,60 +1,57 @@
 body {
-background: #FFFFFF;
-font-family: verdana, arial, sans-serif;
-color: #000000;
-font-size: 12px;
-margin: 0px;
+	background: #FFFFFF;
+	font-family: verdana, arial, sans-serif;
+	color: #000000;
+	font-size: 12px;
+	margin: 0px;
 }
 
 div#container {
-width: 800px;
-margin: 0px auto;
-background: #FFFFFF;
-padding: 0px;
+	width: 800px;
+	margin: 0px auto;
+	padding: 0px;
 }
 
 div#content {
-width: 800px;
-padding-top: 100px;
-background: #FFFFFF;
+	width: 800px;
+	padding-top: 100px;
 }
 
 
 div#header {
-width: 800px;
-height: 100px;
-background: #FFFFFF;
-font-size: 40px;
-position: absolute;
-top: 0px;
+	width: 800px;
+	height: 100px;
+	background: #EEFFFF;
+	font-size: 40px;
+	position: absolute;
+	top: 0px;
 }
 
-div#header-content 
-{ 
-    position: absolute; 
-    bottom: 0; 
+div#header-content { 
+	position: absolute; 
+	bottom: 0; 
 }
 
 div#nav {
-width: 200px;
-float: left;
-background: #FFFFFF;
+	width: 200px;
+	float: left;
+	background: #FFEEFF;
 }
 
 div#maincontent {
-width: 600px;
-float: right;
-background: #FFFFFF;
+	width: 600px;
+	float: right;
+	background: #FFFFEE;
 }
 
 div.navblock {
-width: 180px;
-margin: 5px auto;
+	width: 180px;
+	margin: 5px auto;
 }
 
 div.contentblock {
-width: 580px;
-margin: 5px auto;
+	width: 580px;
+	margin: 5px auto;
 }
 
 .clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
