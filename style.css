@@ -23,6 +23,7 @@ div#header {
 width: 800px;
 height: 100px;
 background: #FFFFFF;
+font-size: 40px;
 position: absolute;
 top: 0px;
 }
