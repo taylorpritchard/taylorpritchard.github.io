@@ -19,8 +19,8 @@ div#content {
 
 
 div#header {
-	width: 800px;
-	height: 100px;
+	width: 760px;
+	height: 80px;
 	background: #FFFFFF;
 	font-size: 40px;
 	position: absolute;
@@ -30,7 +30,7 @@ div#header {
 
 div#header-content { 
 	position: absolute; 
-	bottom: 0; 
+	bottom: 10; 
 }
 
 div#nav {
