@@ -30,7 +30,7 @@ div#header {
 
 div#header-content { 
 	position: absolute; 
-	bottom: 10; 
+	bottom: 10px; 
 }
 
 div#nav {
