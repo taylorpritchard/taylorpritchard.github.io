@@ -1,0 +1,2 @@
+# minifying a CSS file (e.g. style.css -> style.min.css)
+curl -X POST -s --data-urlencode 'input@freelancer.css' https://cssminifier.com/raw > freelancer.min.css
